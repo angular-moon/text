@@ -1,0 +1,6 @@
+{
+    "version": "2.0.14",
+    "description": "An AMD loader plugin for loading text resources",
+    "name": "text",
+    "main": "text.js"
+}
